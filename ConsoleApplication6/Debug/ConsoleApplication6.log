@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication6.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Graph Theory 2.0 .cpp
+C:\Users\ADMIN\Downloads\Graph Theory 2.0 (1)\Graph Theory 2.0\ConsoleApplication6\ConsoleApplication6\Graph Theory 2.0 .cpp(177,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ADMIN\Downloads\Graph Theory 2.0 (1)\Graph Theory 2.0\ConsoleApplication6\ConsoleApplication6\Graph Theory 2.0 .cpp(252,3): warning C4102: 'x': unreferenced label
+C:\Users\ADMIN\Downloads\Graph Theory 2.0 (1)\Graph Theory 2.0\ConsoleApplication6\ConsoleApplication6\Graph Theory 2.0 .cpp(90): warning C4715: 'kiemtra': not all control paths return a value
+  ConsoleApplication6.vcxproj -> C:\Users\ADMIN\Downloads\Graph Theory 2.0 (1)\Graph Theory 2.0\ConsoleApplication6\Debug\Graph Theory 2.0.exe
